@@ -10,7 +10,6 @@
     "stable": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
     "discord.js": "^11.5.1"
   },
   "engines": {
@@ -19,7 +18,6 @@
   "license": "MIT",
   "keywords": [
     "node",
-    "glitch",
-    "express"
+    "glitch"
   ]
 }
